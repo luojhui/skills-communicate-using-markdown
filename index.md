@@ -8,3 +8,7 @@
 Try Header
 
 ![Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+``` Javascript
+var myVar = "Hello, world!";
+```
